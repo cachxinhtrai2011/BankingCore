@@ -55,7 +55,7 @@ namespace GiaPhuocSME.Handlers
         {
             get
             {
-                return "&copy; 2021 GiaPhuocSME. ^Copyright^All rights reserved.^Copyright^";
+                return "&copy; 2021 Thuận Đỗ. ^Copyright^All rights reserved.^Copyright^";
             }
         }
 
